@@ -1,0 +1,7 @@
+procedure Ex15()
+array a (7) in real
+for i=1 to 7
+a(i)<-0
+next i
+end procedure
+ 

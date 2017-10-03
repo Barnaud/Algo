@@ -1,0 +1,14 @@
+procédure ex8()
+varable a in real
+write "Insérez un nombre"
+read a
+if a>0
+write "le nombre est positif"
+else
+if a<0
+write "Le nombre est négatif"
+else
+write "le nombre est nul"
+Fin si
+Fin Si
+Fin procédure

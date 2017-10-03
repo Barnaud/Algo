@@ -1,0 +1,8 @@
+procedure Ex12()
+variable a in integer
+Write "Entrez un nombre"
+read a
+for i=a+1 to a+11
+write i
+Next i
+end procedure

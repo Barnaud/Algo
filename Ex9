@@ -1,0 +1,13 @@
+procédure Ex9()
+variable a in integer
+variable b in boolean
+write "quel age as-tu?"
+read a
+write "es-tu un homme?"
+read b
+if a>20 and b or a>25 and a<46 and not b
+Write "Vous payez des impots"
+else
+Write "Vous ne payez pas d'impots"
+Fin Si
+Fin procédure

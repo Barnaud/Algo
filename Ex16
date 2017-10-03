@@ -1,0 +1,7 @@
+procedure Ex16()
+array a(9) in real
+for i=1 to 9
+Write "Inserez la note "+i
+read a(i)
+Next i
+end procedure

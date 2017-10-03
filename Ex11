@@ -1,0 +1,16 @@
+procedure Ex11()
+variable a in real
+write "Inserez un nombre entre 1 et 10"
+a<- -1
+while a<0 or a>10
+read a
+if a>10
+then
+write "Less"
+end if
+if a<10
+then
+Write "more"
+End if
+wend
+end procedure

@@ -1,0 +1,6 @@
+procedure Ex5 ()
+variable a in real
+write "entrez une valeur"
+read a
+write a*a
+Fin procédure

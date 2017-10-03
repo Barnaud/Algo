@@ -1,0 +1,7 @@
+procédure ex10()
+variable a in real
+Write "inserez un nombre entre 1 et 3"
+while a<1 or a>1
+read a
+Wend
+End procedure

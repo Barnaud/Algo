@@ -1,0 +1,6 @@
+Procedure ex6()
+variable a in String
+Write "Quel est ton nom?"
+read a
+write "Hello"+a
+Fin procédure

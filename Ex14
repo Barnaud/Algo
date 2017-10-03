@@ -1,0 +1,8 @@
+procedure Ex14()
+variable a in integer
+Write "insérez un nombre"
+read a
+for i=1 to 10
+write a+"*"+i+"="+a*i
+next i
+end procedure

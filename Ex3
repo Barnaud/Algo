@@ -1,0 +1,9 @@
+procedure Ex3()
+variables a,b,c in real
+write "insérez deux valeurs"
+read A
+read B
+C<-A
+B<-A
+A<-C
+fin procédure
