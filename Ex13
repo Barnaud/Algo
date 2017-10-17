@@ -1,6 +1,7 @@
 procedure Ex13()
 variable a in integer
 varable b in String
+read a
 for i=a+1 to a+11
 b<-b+i+" "
 next i
