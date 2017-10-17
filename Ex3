@@ -3,7 +3,7 @@ variables a,b,c in real
 write "insérez deux valeurs"
 read A
 read B
-C<-A
+C<-B
 B<-A
 A<-C
 fin procédure
